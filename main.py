@@ -59,11 +59,11 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.1)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @YOUR_GODFATHER_XD\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @II_DEVIL_X_JAI_II\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @INCRICIBLE_MUSIC_SUPPORT\n║\n║➣ @INCRICIBLE\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @being_nationalist\n║\n║➣ @DEVIL_KINGDOMJ\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @YOUR_GODFATHER_XD\n║\n║➣ @INCRICIBLE\n║\n║➣ @INCRICIBLE_NETWORK\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @II_DEVIL_X_JAI_II\n║\n║➣ @DEVIL_KINGDOMJ\n║\n║➣ @being_nationalist\n║\n╚══════ஜ۩۞۩ஜ═════╝")
      
 
 @bot.on_message(
